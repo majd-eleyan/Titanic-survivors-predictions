@@ -1,5 +1,6 @@
 # Titanic Survival Prediction
 
+راط الكود على kaggle [هنا](https://www.kaggle.com/code/majdteleyan/titanic-gradientboosting)
 ### "التطبيق العملي هو أفضل معلم" 
 في هذا المشروع قمت بتحليل بيانات سفينة التيتانيك الشهيرة للتنبؤ باحتمالية نجاة الركاب بناءً على عدة عوامل.
 
